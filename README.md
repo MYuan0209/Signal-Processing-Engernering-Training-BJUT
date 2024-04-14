@@ -6,3 +6,5 @@ Complied by "TDM-GCC-64/g++.exe".
 如果对您有用记得送上小红花哦，比心。
 
 需要在Windows系统使用TDM-GCC-64的g++.exe进行编译，建议下载VSCode。
+
+最后的大作业在final文件夹里，我做的是“采用窗函数截断信号时的能量泄露效应”。
