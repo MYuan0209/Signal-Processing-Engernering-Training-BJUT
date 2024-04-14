@@ -3,6 +3,7 @@
 
 double ramp(double t);
 double sawtoothwave(double t, double T);
-double sinc(double t, double w, double W);
+double sinc(double w, double W, double t);
+double rec(double t, double T) ;
 
 #endif
